@@ -2,7 +2,7 @@
 <br/>
 Simple android app for birthday gift to loved ones.</br>
 See the preview here:<br/>
-[![Preview Video](https://img.youtube.com/vi/GweExWKdfjk/0.jpg)](https://www.youtube.com/watch?v=GweExWKdfjk)
+<a href="https://www.youtube.com/watch?v=GweExWKdfjk"><img src="https://img.youtube.com/vi/GweExWKdfjk/0.jpg"></a>
 <br/>
 <strong>OR</strong><br/>
 Download the preview App here: <a href="cdn.unydevelopernetwork.com/mil-system/github/com.milsystem.simplebirthdaycard.apk"><strong>Here</strong></a>
